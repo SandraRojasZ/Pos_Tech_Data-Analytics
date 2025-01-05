@@ -53,7 +53,7 @@ Estatística e Algelin em Python
 - Aula 1 - Métodos matemáticos para Data Analytics
 
 ## Para cooperar no arquivo:
-1. git clone https://github.com/SandraRojasZ/Machine-Learning-and-Time-Series.git
+1. git clone https://github.com/SandraRojasZ/Pos_Tech_Data_Analytics.git
 2. cd Machine-Learning-and-Time-Series
 3. git status
 4. git add .
