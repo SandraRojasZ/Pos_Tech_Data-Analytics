@@ -1,9 +1,9 @@
 # Pos_Tech_Data-Analytics
 
 ## Conteúdo
-Fase 2 - Machine Learning and Time Series 
-Fase 1 - Data Analysis and Exploration 
-Onboard - Data Analytics
+- Fase 2 - Machine Learning and Time Series 
+- Fase 1 - Data Analysis and Exploration 
+- Onboard - Data Analytics
 
 ## Para cooperar no arquivo:
 1. git clone https://github.com/SandraRojasZ/Machine-Learning-and-Time-Series.git
